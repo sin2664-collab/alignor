@@ -146,8 +146,6 @@ Yes. Tested with Claude, ChatGPT, and Gemini. Any instruction-following model wo
 
 - [x] v0.1 — single markdown file, works with any LLM
 - [ ] v0.2 — CLI: `cat output.txt | alignor check`
-- [ ] v0.3 — team shared vision dashboard (cloud, paid)
-- [ ] v0.4 — GitHub PR alignment check
 
 ---
 
