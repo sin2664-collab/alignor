@@ -239,7 +239,7 @@ or did it get crowded out?
 
 # alignor — speed without direction is just accelerated failure.
 
-# github.com/yourname/alignor  ·  MIT License
+# github.com/sin2664-collab/alignor  ·  MIT License
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
