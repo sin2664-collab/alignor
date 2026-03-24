@@ -1,0 +1,37 @@
+# alignor config.yml
+# Used by the alignor CLI (v0.2 — coming soon).
+# For now, this file documents your mission and visions in a structured format.
+# Fill this in alongside alignor.md.
+
+# ─────────────────────────────────────
+# MISSION — why you exist
+# Timeless. Never changes.
+# Use the structure: exist to / believe / will never
+# ─────────────────────────────────────
+mission: |
+  We exist to [your core purpose].
+  We believe [your fundamental belief].
+  We will never [your non-negotiable refusal].
+
+# ─────────────────────────────────────
+# VISIONS — concrete future states you're aiming for
+# These are the scoring targets. Can evolve as strategy changes.
+# Use the structure: By [timeframe], [who] will [do or experience what].
+# ─────────────────────────────────────
+visions:
+  - id: V1
+    text: "By [timeframe], [who] will [concrete observable outcome]"
+
+  - id: V2
+    text: "By [timeframe], [who] will [concrete observable outcome]"
+
+  - id: V3
+    text: "By [timeframe], [who] will [concrete observable outcome]"
+
+# ─────────────────────────────────────
+# OPTIONAL — improves scoring accuracy when filled in
+# ─────────────────────────────────────
+audience:     "Who this is for — be specific"
+anti_persona: "Who this is NOT for"
+voice:        "Tone and style — e.g. direct, no buzzwords, like a senior engineer"
+avoid:        "What to never sound like — e.g. corporate speak, vague encouragements"
