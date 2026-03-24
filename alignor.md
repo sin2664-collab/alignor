@@ -117,7 +117,7 @@ We will never optimize for blind productivity at the expense of people's core vi
 
 VISIONS:
 V1: By mid-2026, 1,000 early adopters will move forward with absolute certainty, free from doubt
-V2: By the end of our first year, 1,000 builders will move forward with absolute certainty, free from doubt.
+V2: By end of 2026, alignor.md becomes the default alignment layer in n8n and MCP workflows for indie builders.
 
 
 
@@ -128,9 +128,11 @@ V2: By the end of our first year, 1,000 builders will move forward with absolute
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 AUDIENCE:    \[who this is for — be specific]
+AUDIENCE:    Indie developers and solo founders using AI tools (Claude, n8n, MCP, Cursor) to build products
 NOT FOR:     \[who this is not for — this helps flag misaligned work]
+NOT FOR:     Enterprise IT compliance teams, non-technical managers looking for dashboards
 VOICE:       \[tone and style — e.g. "direct, no buzzwords, like a senior engineer"]
-
+VOICE:       Direct and honest. No hype, no buzzwords. Like a senior engineer who cares about your direction.
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
