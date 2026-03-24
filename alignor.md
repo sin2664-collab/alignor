@@ -24,11 +24,11 @@
 
 # 
 
-# We exist to \[To empower everyone to look forward without looking back in doubt].
+# We exist to \[your core purpose].
 
-# We believe \[in the age of infinite AI output, moving 100x faster in the wrong direction is the ultimate failure].
+# We believe \[fundamental belief that others might disagree with].
 
-# We will never \[optimize for blind productivity at the expense of people's core vision].
+# We will never \[what you refuse to do, even for money].
 
 # 
 
@@ -59,9 +59,9 @@
 # 3\. Would your ideal user read it and say "exactly"? → If not, rewrite.
 
 MISSION:
-We exist to \[your core purpose].
-We believe \[your fundamental belief].
-We will never \[your non-negotiable refusal].
+We exist to empower everyone to look forward without looking back in doubt.
+We believe in the age of infinite AI output, moving 100x faster in the wrong direction is the ultimate failure.
+We will never optimize for blind productivity at the expense of people's core vision.
 
 
 
@@ -83,7 +83,7 @@ We will never \[your non-negotiable refusal].
 
 # 
 
-# V1: By \[mid-2026], \[1,000 early adopters] will \[move forward with absolute certainty, free from doubt].
+# V1: By \[timeframe], \[who] will \[do or experience what].
 
 # 
 
@@ -116,9 +116,8 @@ We will never \[your non-negotiable refusal].
 # 3\. Are any two visions saying the same thing? → If yes, merge them.
 
 VISIONS:
-V1: \[concrete future state — who does what by when]
-V2: \[concrete future state — who does what by when]
-V3: \[add or remove as needed]
+V1: By mid-2026, 1,000 early adopters will move forward with absolute certainty, free from doubt
+V2: By the end of our first year, 1,000 builders will move forward with absolute certainty, free from doubt.
 
 
 
